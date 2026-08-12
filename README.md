@@ -1,27 +1,23 @@
-<h1 align="center">Hi there, I'm <a href="https://ankhudyakov.github.io/My_CV/" target="_blank">Andrey Khudyakov</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a Front-End Developer.</h3>
-<h4>My technology stack:</h4>
+## Andrei Khudiakov
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+Senior Frontend Developer. TypeScript and React in production for the last four years.
 
-<h2>Контакты:</h2>
+Right now I'm the sole frontend engineer on a fantasy football product (React 19, TypeScript, Chakra UI, RTK Query, live updates over SSE) and lead frontend on a real-time multiplayer card game platform running as a Telegram Mini App (React 19, Redux Toolkit, Centrifugo).
 
-<a href = "https://t.me/AndrewvKh">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+Before that: a 3D BIM viewer built on Autodesk Forge, and the admin and reporting tools behind a corporate gamification platform used by 20,000+ employees.
 
+**A note on this profile.** My production work of the last four years lives in private company repositories, so what is public here is personal and older code. I'm glad to walk through architecture decisions from the private projects in as much detail as you want.
 
-<!--
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core:** TypeScript, React, Next.js, Node.js
+**State and data:** Redux Toolkit, RTK Query, TanStack Query, React Hook Form
+**Real-time:** SSE, WebSocket, Centrifugo, Firebase Cloud Messaging, service workers
+**UI:** Chakra UI, MUI, React Admin, SCSS, Motion
+**Testing:** Vitest, Jest, Playwright, Cypress, Storybook
+**Delivery:** Nx, Vite, Docker, Nginx, GitHub Actions
+
+### Contact
+
+khandrewv@gmail.com
+Telegram: [@AndrewvKh](https://t.me/AndrewvKh)
